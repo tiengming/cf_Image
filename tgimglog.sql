@@ -16,4 +16,3 @@ CREATE TABLE IF NOT EXISTS imginfo (
 	`total` integer,
 	`time` DATE
 );
-
